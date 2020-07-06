@@ -17,3 +17,7 @@ Clicks the mouse randomly on the current position with 0.5 - 3 second intervals
   - Run the script ```python3 clicker.py```
   - Enjoy!
   - To stop the script close the terminal window or press control + c
+
+# Licence
+
+  - [LICENCE.txt](https://github.com/topseli/PyClicker/blob/master/LICENCE.txt)
