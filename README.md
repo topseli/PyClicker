@@ -8,8 +8,8 @@ Clicks the mouse randomly on the current position with 0.5 - 3 second intervals
   - [Windows](https://www.python.org/ftp/python/3.8.4/python-3.8.4rc1-amd64.exe)
   - linux ```sh sudo apt install python3```
 
-- Install pyaudogui
-  - ```sh pip -m install pyautogui ```
+- Install pyautogui
+  - ```sh pip3 -m install pyautogui ```
   
 # How to use
 
