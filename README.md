@@ -13,7 +13,7 @@ Clicks the mouse randomly on the current position with 0.5 - 3 second intervals
   
 # How to use
 
-  - Open a terminal window in a folder containing the clicker.py 
+  - Open a terminal window in the folder containing the clicker.py 
   - Run the script ```python3 clicker.py```
   - Enjoy!
-  - To stop the script clos the terminal window or press control + c
+  - To stop the script close the terminal window or press control + c
