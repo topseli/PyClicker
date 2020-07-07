@@ -10,11 +10,11 @@ Clicks the mouse randomly on the current position with 0.5 - 3 second intervals
 
 - Install pyautogui
   - ```pip3 install pyautogui ```
-  
+
 # How to use
 
-  - Open a terminal window in the folder containing the clicker.py 
-  - Run the script ```python3 clicker.py```
+  - Open a terminal window in the folder containing the clicker.py
+  - Run the script ```python3 PyClickerCLI.py```
   - Enjoy!
   - To stop the script close the terminal window or press control + c
 
