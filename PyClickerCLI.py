@@ -37,7 +37,7 @@ def timed_loop():
     try:
         stopping_time = int(clicking_time) + time.time()
     except ValueError:
-        print("Give the clicking time as a integer!")
+        print("Give the clicking time as an integer!")
         print("Exiting...")
         exit()
 
@@ -60,7 +60,7 @@ def counted_loop():
     try:
         click_count_int = int(click_count)
     except ValueError:
-        print("Give the click count as a integer!")
+        print("Give the click count as an integer!")
         print("Exiting...")
         exit()
 
