@@ -16,7 +16,7 @@ def random_sleep():
     sleep_time = random.random() + random.random() + random.random()
     # Check that the random number is greater than 0.5
     if(sleep_time < 0.5):
-        sleep_time = + 0.5
+        sleep_time = + 0.5 + random.random()
     # Sleep for the generated random time 0.5...3.0 seconds
     sleep(sleep_time)
 
